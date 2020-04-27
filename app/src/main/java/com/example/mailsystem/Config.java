@@ -5,7 +5,7 @@ package com.example.mailsystem;
  */
 public class Config {
 
-    public static final String EMAIL ="organjcfantasy@gmail.com";
-    public static final String PASSWORD ="Organicfantasy1@";
+    public static final String EMAIL ="YOUR_GMAIL_ID";
+    public static final String PASSWORD ="YOUR_PASSWORD";
 
 }
